@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="flower_garden" size="50.000000 37.500000" />
+    <ImageTarget name="Pearson-logo-2016-BW-unique" size="50.000000 53.676472" />
+    <ImageTarget name="starry_night2" size="50.000000 39.085667" />
+    <ImageTarget name="boba_fett2" size="50.000000 66.666664" />
+    <ImageTarget name="underwater_dog2" size="50.000000 37.385128" />
+    <ImageTarget name="dilbert2" size="50.000000 66.666664" />
+    <ImageTarget name="Pearson-logo-2016-BW" size="50.000000 53.676472" />
+  </Tracking>
+</QCARConfig>
